@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100vw;
+    color: white;
+    background-color: black;
+    /* overflow-x: hidden; */
+}
+
+table {
+    color: white;
+    position: relative;
+    margin: 16px auto;
+}
+
+td{
+    border-bottom: 1px solid wheat;
+    padding: 15px 30px;
+}
+
+
